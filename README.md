@@ -15,5 +15,5 @@ Yo can test the api with postman and check the db with mongo compass mongodb://l
 Get and Post
 localhost:5000/v1/customers
 
-Delete Put
+Delete Put and Get
 localhost:5000/v1/customers/:emailOfCustomer
