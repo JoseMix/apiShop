@@ -16,4 +16,4 @@ Get and Post
 localhost:5000/v1/customers
 
 Delete Put
-localhost:5000/v1/customers/<emailOfCustomer>
+localhost:5000/v1/customers/:emailOfCustomer
