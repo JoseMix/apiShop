@@ -22,3 +22,5 @@ router.put("/:email", validationRules, validationCheck, updateCustomerByEmail);
 router.delete("/:email", deleteCustomerByEmail);
 
 module.exports = router;
+
+//JoseMi Silva
